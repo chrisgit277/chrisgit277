@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+hiiiiiii
+I just graduated from Noble Street College Prep and i'm going to attend St. Olaf College. The first piece of tech I had was either a PSP or a Wii. I'm from Chicago and want to study statistics and data science. 
 <!--
 **chrisgit277/chrisgit277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
